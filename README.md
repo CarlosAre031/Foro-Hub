@@ -1,11 +1,13 @@
 # Foro-Hub
-Diseñada para fomentar la interacción entre usuarios, Foro Hub permite la creación de tópicos, respuestas y participación en debates.
+Diseñada para fomentar la interacción entre usuarios, Foro Hub permite la creación de tópicos, respuestas y participación en debates
+
 #Funcionalidades Principales
 Permite a los usuarios registrarse y autenticarse de forma segura.
 Facilita la creación, modificación y eliminación de temas de discusión.
 Permite responder a temas existentes y participar en conversaciones.
 Ofrece un listado completo de usuarios y temas disponibles.
 Utiliza JSON Web Tokens (JWT) para garantizar una autenticación robusta.
+
 #Herramientas y Tecnologías Empleadas
 Lenguaje de programación: Java
 Framework web: Spring Boot
